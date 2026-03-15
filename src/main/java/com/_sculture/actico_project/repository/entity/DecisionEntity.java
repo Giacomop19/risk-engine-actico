@@ -17,9 +17,4 @@ public class DecisionEntity {
     private String customerId;
     private String decision;
 
-    public void setCustomerId(String customerId) { this.customerId = customerId; }
-
-    public void setDecision(String decision) { this.decision = decision; }
-
-
 }
